@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devesh tripathi](https://github.com/devesh17m)
+- Place: Delhi , India
+- Bio: Web developer java and Python
+- Github: [devesh17m](https://github.com/devesh17m)
